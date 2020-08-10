@@ -26,7 +26,7 @@
 ---
 后面阶段的学习提升计划待完善 不过我先列举了一些优质的学习资源  有时间可以开始自己的计划
 
-#### [前端开发者手册](https://github.com/dwqs/front-end-handbook)(学习前端的实践手册)
+### [前端开发者手册](https://github.com/dwqs/front-end-handbook)(学习前端的实践手册)
 
 中文源地址：https://github.com/dwqs/fedHandlebook
 
@@ -39,25 +39,31 @@
 - [MOBI版](https://www.gitbook.com/book/dwqs/frontenddevhandbook/details)
 
 
-#### [算法题库 1](https://github.com/sisterAn/JavaScript-Algorithms)(leetcode 解题)
+### [算法题库 1](https://github.com/sisterAn/JavaScript-Algorithms)(leetcode 解题)
 
 作者博客地址：https://github.com/sisterAn/blog
 
 
-#### [算法题库 2](https://github.com/azl397985856/leetcode)(leetcode 解题 + 算法与数据结构知识总结)
+### [算法题库 2](https://github.com/azl397985856/leetcode)(leetcode 解题 + 算法与数据结构知识总结)
 
 作者博客地址：https://lucifer.ren/blog/
 
 
-#### [前端题库 1](https://github.com/Advanced-Frontend/Daily-Interview-Question)(每天搞定一道大厂前端面试题)
+### [前端题库 1](https://github.com/Advanced-Frontend/Daily-Interview-Question)(每天搞定一道大厂前端面试题)
 
 作者博客地址：https://muyiy.cn/question/
 
-#### [前端题库 2](https://github.com/haizlin/fe-interview)(每天3+1 题 题目知识点更细更广)
+### [前端题库 2](https://github.com/haizlin/fe-interview)(每天3+1 题 题目知识点更细更广)
 
 作者博客地址：http://www.h-camel.com/index.html
 
 
-#### [面试手册](https://github.com/azl397985856/fe-interview)(知识点概况介绍)
+### [面试手册](https://github.com/azl397985856/fe-interview)(知识点概况介绍)
 
 作者博客地址：https://lucifer.ren/fe-interview/#/
+
+### [JS 基础视频课](https://study.163.com/course/introduction.htm?courseId=1004170004&_trace_c_p_k2_=5c3b820404cc46469751e9690e698ea2)
+
+
+
+### 以上任何一个资源 只要坚持一年以上的学习习惯 绝对有所收获
