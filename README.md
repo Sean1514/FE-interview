@@ -65,5 +65,16 @@
 ### 😀 [JS 基础视频课](https://study.163.com/course/introduction.htm?courseId=1004170004&_trace_c_p_k2_=5c3b820404cc46469751e9690e698ea2)
 
 
-
+https://www.bilibili.com/video/BV1eK411L7Co
 ### 以上任何一个资源 只要坚持一年以上的学习 绝对有所收获
+
+========
+## 2020 8/11 更新  软考相关
+
+### 😀 [软件设计师](https://www.bilibili.com/video/BV1eK411L7Co)（中级）
+
+### 😀 [系统集成项目管理工程师](https://www.bilibili.com/video/BV1HJ411y7SR?from=search&seid=18310966283513817821)（中级）
+
+### 😀 [信息系统管理工程师](https://www.bilibili.com/video/BV1x4411G7yJ?from=search&seid=17127175341077511319)（中级）
+
+### 😀 [信息系统项目管理师](https://www.bilibili.com/video/BV18C4y187ie)（高级）
